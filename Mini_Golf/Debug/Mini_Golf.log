@@ -1,0 +1,25 @@
+﻿Build started 2016-02-15 20:24:21.
+     1>Project "C:\Users\Markopolo\Documents\Visual Studio 2010\Projects\Mini_Golf2\Mini_Golf\Mini_Golf.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Mini_Golf_0.2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Mini_Golf.vcxproj -> C:\Users\Markopolo\Documents\Visual Studio 2010\Projects\Mini_Golf2\Debug\Mini_Golf_0.2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Mini_Golf_0.2.unsuccessfulbuild".
+         Touching "Debug\Mini_Golf_0.2.lastbuildstate".
+     1>Done Building Project "C:\Users\Markopolo\Documents\Visual Studio 2010\Projects\Mini_Golf2\Mini_Golf\Mini_Golf.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.39
